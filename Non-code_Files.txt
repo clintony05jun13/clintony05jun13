@@ -1,0 +1,2 @@
+Did you know you can save files other than code files in GitHub? 
+There is a size limit, but you can upload files like images, zipped folders, or text files like this one!
